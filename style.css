@@ -1,0 +1,33 @@
+.btn {
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+    padding: 1em;
+}
+.search-btn {
+    padding: 0 1em;
+    margin: 0 auto;
+}
+
+.lucky-btn {
+    padding: 0 1em;
+    margin: 0 auto;
+}
+.textbox {
+    margin : 0 auto;
+    padding: 1em;
+}
+#searchbox {
+    margin: 0 auto;
+    width : 100%;
+}
+.logo {
+    padding: 0;
+    margin: auto;
+    padding-top: 15%;
+}
+.logo img{
+    display: block;
+    margin: auto;
+    
+}
